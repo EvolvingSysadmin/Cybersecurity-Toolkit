@@ -11,4 +11,4 @@ Tools and techniques for cybersecurity
 
 ### TOC
 * Incident Response
-    * [Incident Response Lifecycle](./docs/blue-team/dfir/incident-response-lifecycle/INCIDENT-RESPONSE-LIFECYCLE.md)
+    * [Incident Response Lifecycle](./blue-team/incident-response-lifecycle.md)
