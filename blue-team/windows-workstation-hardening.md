@@ -1,6 +1,6 @@
 ---
-permalink: /incident-response-lifecycle.html
-title: Incident Response Lifecycle
+permalink: /windows-workstation-hardening.html
+title: Hardening
 description: 
 ---
 <head>
@@ -9,4 +9,4 @@ description:
 
 ## [Cybersecurity Toolkit](https://ryanheavican.com/cybersecurity-toolkit)
 
-### Incident Response Lifecycle
+### Windows Workstation Hardening
