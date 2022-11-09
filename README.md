@@ -70,9 +70,10 @@ Tools, techniques, and resources for cybersecurity practitioners.
 * Intrusion
     * Phishing
     * Brute Force
+    * [Password Cracking]()
 * Exploitation
 * Enumeration
-    * Active Directory
+    * [Active Directory](./red-team/active-directory.md)
 * Privilege Escalation
 * Lateral Movement
     * AV Evasion
