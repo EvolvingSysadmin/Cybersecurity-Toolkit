@@ -11,17 +11,17 @@ description:
 ## [Cybersecurity Toolkit](https://ryanheavican.com/Cybersecurity-Toolkit)
 Tools, techniques, and resources for cybersecurity.
 
-## TOC
+### TOC
 
-### Blue Team
+#### Blue Team
 * Incident Response
     * [Incident Response Lifecycle](./blue-team/incident-response-lifecycle.md)
 
 
 
-### Red Team
+#### Red Team
 
 
-### GRC
+#### GRC
 
-### Resources
+#### Resources
