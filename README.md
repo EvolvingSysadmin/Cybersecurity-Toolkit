@@ -1,5 +1,6 @@
 ---
-permalink: /Cybersecurity-Toolkit.html
+permalink: /cybersecurity-toolkit.html
+title: Cybersecurity Toolkit
 ---
 <head>
 <link href="css/cyber.css" rel="stylesheet">
