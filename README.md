@@ -71,13 +71,12 @@ Tools, techniques, and resources for cybersecurity practitioners.
 * Red Team Methodology
 * Recon
 * Intrusion
-  * [Breaching Active Directory](./red-team/breaching-active-directory.md)
-  * Phishing
-  * Brute Force
+    * Phishing
+    * Brute Force
 * Exploitation
   * Active Directory
 * Enumeration
-  * Active Directory
+    * Active Directory
 * Privilege Escalation
   * Password Cracking
 * Lateral Movement
