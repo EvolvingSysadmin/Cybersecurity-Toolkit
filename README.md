@@ -19,22 +19,24 @@ Tools, techniques, and resources for cybersecurity practitioners.
     * Incident Response
         * [Incident Response Lifecycle](./blue-team/incident-response-lifecycle.md)
         * [MITRE ATT&CK Framework]()
-    * Network Analysis
+    * Phishing Forensics
+        * Basic Email Info
+        * Email Headers
+        * Email Analysis Tools
+    * Network Forensics
         * Basic Network Tools
         * Basic Port Info
         * NMAP
         * Wireshark
-    * Phishing Analysis
-        * Basic Email Info
-        * Email Headers
     * Systems Forensics
         * Digital Evidence Handling
         * Basic File Metadata
         * File Hashing
         * File Systems
-        * Memory File Analysis
         * Windows Artifacts
         * Linux Artifacts
+        * Windows Processes Analysis
+        * Memory File Analysis
         * FTK Imager
         * Exiftool
         * Scalpel
