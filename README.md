@@ -8,35 +8,35 @@ description:
 </head>
 
 ## Cybersecurity Toolkit
+
 Tools, techniques, and resources for cybersecurity practitioners.
 
 ### Blue Team
+
 * Hardening
-    * Windows Workstation Hardening
-    * Windows Server Hardening
-    * Linux Hardening
+  * Windows Workstation Hardening
+  * Windows Server Hardening
+  * Linux Hardening
 * DFIR
     * Incident Response
         * [Incident Response Lifecycle](./blue-team/incident-response-lifecycle.md)
         * [MITRE ATT&CK Framework]()
-    * Phishing Forensics
-        * Basic Email Info
-        * Email Headers
-        * Email Analysis Tools
-    * Network Forensics
+    * Network Analysis
         * Basic Network Tools
         * Basic Port Info
         * NMAP
         * Wireshark
+    * Phishing Analysis
+        * Basic Email Info
+        * Email Headers
     * Systems Forensics
         * Digital Evidence Handling
         * Basic File Metadata
         * File Hashing
         * File Systems
+        * Memory File Analysis
         * Windows Artifacts
         * Linux Artifacts
-        * Windows Processes Analysis
-        * Memory File Analysis
         * FTK Imager
         * Exiftool
         * Scalpel
@@ -67,26 +67,30 @@ Tools, techniques, and resources for cybersecurity practitioners.
 * Threat Intelligence
 
 ### Red Team
+
 * Red Team Methodology
 * Recon
 * Intrusion
-    * Phishing
-    * Brute Force
-    * [Password Cracking]()
+  * [Breaching Active Directory](./red-team/breaching-active-directory.md)
+  * Phishing
+  * Brute Force
 * Exploitation
+  * Active Directory
 * Enumeration
-    * [Active Directory](./red-team/active-directory.md)
+  * Active Directory
 * Privilege Escalation
+  * Password Cracking
 * Lateral Movement
-    * AV Evasion
+  * AV Evasion
 * Peristence
-    * C&C
+  * C&C
 * Obsfucation
 * DoS
 * Exfiltration
 
 ### GRC
-* RSA Archer
+
+* Archer IRM
 
 ### Resources
 * Learning

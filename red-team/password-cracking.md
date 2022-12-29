@@ -11,6 +11,11 @@ description:
 
 ### Password Cracking
 
+<<<<<<< HEAD
+Windows SAM structure: MD5
+
+https://www.hackingarticles.in/credential-dumping-sam/
+=======
 #### Hashcat
 
 Password Cracking Using Kali using Hashcat
@@ -28,3 +33,4 @@ rockyou.txt: wordlist
 
 #### John
 
+>>>>>>> 1f497707673ee26914bbbfe5e189132e21b8d6f3
