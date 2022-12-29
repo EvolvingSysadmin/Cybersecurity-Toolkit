@@ -20,7 +20,7 @@ Tools, techniques, and resources for cybersecurity practitioners.
 * DFIR
   * Incident Response
     * [Incident Response Lifecycle](./blue-team/incident-response-lifecycle.md)
-    * [MITRE ATT&CK Framework]()
+    * MITRE ATT&CK Framework
   * Network Analysis
     * Basic Network Tools
     * Basic Port Info
@@ -71,12 +71,13 @@ Tools, techniques, and resources for cybersecurity practitioners.
 * Red Team Methodology
 * Recon
 * Intrusion
-    * Phishing
-    * Brute Force
+  * [Breaching Active Directory](./red-team/breaching-active-directory.md)
+  * Phishing
+  * Brute Force
 * Exploitation
   * Active Directory
 * Enumeration
-    * Active Directory
+  * Active Directory
 * Privilege Escalation
   * Password Cracking
 * Lateral Movement
